@@ -5,6 +5,11 @@
   text-align: center;
 }
 
+.bg {
+  background-image: url('./path/to/your/image.jpg');
+  /* Additional background properties */
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;

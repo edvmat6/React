@@ -66,3 +66,10 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+.bg {
+  background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full%20page/img(11).webp");
+  height: 50vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
